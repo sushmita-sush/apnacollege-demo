@@ -1,3 +1,3 @@
 This is my first gitrepo
 <br>
-Author-Sushmita
+Author-Sushmita (apna college)
